@@ -1,1487 +1,2459 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/condition_cb_dmean_5000_it.json",
-    "id_item": "condition_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/crash_cb_dmean_5000_it.json",
+    "id_item": "crash_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "condition",
+    "english": "crash",
     "list_mean": [
-      "điều kiện",
-      "quy định",
-      "huấn luyện"
+      "tiếng đổ loảng xoảng",
+      "đâm vào nhau",
+      "sự phá sản",
+      "sự cố",
+      "rơi vỡ loảng xoảng",
+      "đâm",
+      "va đụng",
+      "thất bại",
+      "tiếng huyên náo",
+      "gặp sự cố",
+      "cấp tốc"
     ],
-    "hash_code_list_mean": "947138918",
+    "hash_code_list_mean": "-1104102719",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809668184_313a346849_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809668184_dc4b745be1_o.png",
-        "id_image": "condition_1345391"
+        "link_thumb": "https://live.staticflickr.com/65535/51809323631_f1818f0ab5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323631_69fb4f32c8_o.png",
+        "id_image": "crash_2040909"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809428143_9f0a367a99_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809428143_64f478de4a_o.png",
-        "id_image": "condition_4668427"
+        "link_thumb": "https://live.staticflickr.com/65535/51809678849_9c33173525_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678849_887af81968_o.png",
+        "id_image": "crash_2041258"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368507_aff1502cde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368507_2cb15e7abe_o.png",
+        "id_image": "crash_2084030"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438678_25fa761481_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438678_90d6374edc_o.png",
+        "id_image": "crash_2372109"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809323481_f493e7f647_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323481_58fcc2667a_o.png",
+        "id_image": "crash_3729200"
       }
     ],
-    "hash_code_list_img": "259969249",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1094376519",
+    "list_definition_mean": [
+      {
+        "mean_english": "tiếng đổ loảng xoảng",
+        "definition": "a noise as of heavy things breaking or falling on something hard",
+        "ex_of_definition_list": [
+          "I heard a crash, and looked round to see that he’d dropped all the plates."
+        ]
+      },
+      {
+        "mean_english": "đâm vào nhau",
+        "definition": "a collision",
+        "ex_of_definition_list": [
+          "There was a crash involving three cars."
+        ]
+      },
+      {
+        "mean_english": "sự phá sản",
+        "definition": "a failure of a business etc",
+        "ex_of_definition_list": [
+          "the Wall Street crash."
+        ]
+      },
+      {
+        "mean_english": "sự cố",
+        "definition": "a sudden failure of a computer",
+        "ex_of_definition_list": [
+          "A computer crash is very costly."
+        ]
+      },
+      {
+        "mean_english": "rơi vỡ loảng xoảng",
+        "definition": "to (cause to) fall with a loud noise",
+        "ex_of_definition_list": [
+          "The glass crashed to the floor."
+        ]
+      },
+      {
+        "mean_english": "đâm",
+        "definition": "to drive or be driven violently (against, into)",
+        "ex_of_definition_list": [
+          "He crashed (his car)",
+          "His car crashed into a wall."
+        ]
+      },
+      {
+        "mean_english": "va đụng",
+        "definition": "(of aircraft) to land or be landed in such a way as to be damaged or destroyed",
+        "ex_of_definition_list": [
+          "His plane crashed in the mountains."
+        ]
+      },
+      {
+        "mean_english": "tiếng huyên náo",
+        "definition": "to force one’s way noisily (through, into)",
+        "ex_of_definition_list": [
+          "He crashed through the undergrowth."
+        ]
+      },
+      {
+        "mean_english": "gặp sự cố",
+        "definition": "(of a computer) to stop working suddenly",
+        "ex_of_definition_list": [
+          "If the computer crashes, we may lose all our files."
+        ]
+      },
+      {
+        "mean_english": "cấp tốc",
+        "definition": "rapid and concentrated",
+        "ex_of_definition_list": [
+          "a crash course in computer technology."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-126692000"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shot_cb_dmean_5000_it.json",
-    "id_item": "shot_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/rust_cb_dmean_5000_it.json",
+    "id_item": "rust_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "shot",
+    "english": "rust",
     "list_mean": [
-      "phát đạn",
-      "tiếng đạn được bắn đi",
-      "cú đánh bóng, cú sút bóng",
-      "sự làm thử",
-      "viên đạn",
-      "bức ảnh",
-      "liều tiêm",
-      "nhà thiện xạ"
+      "gỉ sắt",
+      "làm han gỉ"
     ],
-    "hash_code_list_mean": "869565386",
+    "hash_code_list_mean": "754118459",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809697949_fa28aeb63d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809697949_dfe9241ca5_o.png",
-        "id_image": "shot_1651815"
+        "link_thumb": "https://live.staticflickr.com/65535/51809453643_8513ca1932_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453643_40852f97fa_o.png",
+        "id_image": "rust_5660155"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809457458_601ed3ebc7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809457458_0d11c9d80e_o.png",
-        "id_image": "shot_3564467"
+        "link_thumb": "https://live.staticflickr.com/65535/51810075640_74cff592fa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075640_ff2a60786b_o.png",
+        "id_image": "rust_5825229"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080210_d8f8a6a6c8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080210_4963217b19_o.png",
-        "id_image": "shot_572307"
+        "link_thumb": "https://live.staticflickr.com/65535/51809693724_912f512eb3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693724_481103b79f_o.png",
+        "id_image": "rust_5931427"
       }
     ],
-    "hash_code_list_img": "-1912059105",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-50292957",
+    "list_definition_mean": [
+      {
+        "mean_english": "gỉ sắt",
+        "definition": "the reddish-brown substance which forms on iron and steel, caused by air and moisture",
+        "ex_of_definition_list": [
+          "The car was covered with rust."
+        ]
+      },
+      {
+        "mean_english": "làm han gỉ",
+        "definition": "to (cause to) become covered with rust",
+        "ex_of_definition_list": [
+          "The rain has rusted the gate",
+          "There’s a lot of old metal rusting in the garden."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1921356139"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/frown_cb_dmean_5000_it.json",
-    "id_item": "frown_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/easy_cb_dmean_5000_it.json",
+    "id_item": "easy_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "frown",
+    "english": "easy",
     "list_mean": [
-      "cau mày; nhăn mặt",
-      "sự cau mày"
+      "dễ dàng",
+      "dễ chịu",
+      "ung dung",
+      "thoải mái",
+      "di chuyển nhẹ nhàng và từ từ"
     ],
-    "hash_code_list_mean": "-497213333",
+    "hash_code_list_mean": "618509288",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809343466_6787c1da8e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809343466_6d1e0e574b_o.png",
-        "id_image": "frown_3508358"
+        "link_thumb": "https://live.staticflickr.com/65535/51808377067_10af66f8a3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377067_206c695ef1_o.png",
+        "id_image": "easy_2647573"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808388392_818b6f0960_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808388392_ea3198aae3_o.png",
-        "id_image": "frown_4795870"
+        "link_thumb": "https://live.staticflickr.com/65535/51809447278_2255785f6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447278_ed4dbd5027_o.png",
+        "id_image": "easy_5360589"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376977_88effe9956_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376977_b0232d71de_o.png",
+        "id_image": "easy_5906078"
       }
     ],
-    "hash_code_list_img": "2059361294",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1349137674",
+    "list_definition_mean": [
+      {
+        "mean_english": "dễ dàng",
+        "definition": "not difficult",
+        "ex_of_definition_list": [
+          "This is an easy job (to do)."
+        ]
+      },
+      {
+        "mean_english": "dễ chịu",
+        "definition": "free from pain, trouble, anxiety etc",
+        "ex_of_definition_list": [
+          "He had an easy day at the office."
+        ]
+      },
+      {
+        "mean_english": "ung dung",
+        "definition": "friendly",
+        "ex_of_definition_list": [
+          "an easy manner/smile."
+        ]
+      },
+      {
+        "mean_english": "thoải mái",
+        "definition": "relaxed; leisurely",
+        "ex_of_definition_list": [
+          "The farmer walked with an easy stride."
+        ]
+      },
+      {
+        "mean_english": "di chuyển nhẹ nhàng và từ từ",
+        "definition": "a command to go or act gently",
+        "ex_of_definition_list": [
+          "Easy! You’ll fall if you run too fast."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1790096016"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/giant_cb_dmean_5000_it.json",
-    "id_item": "giant_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pulp_cb_dmean_5000_it.json",
+    "id_item": "pulp_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "giant",
+    "english": "pulp",
     "list_mean": [
-      "người khổng lồ",
-      "người phi thường",
-      "thiên tài",
-      "khổng lồ"
+      "cùi trái cây",
+      "bột giấy",
+      "nghiền nhão; lấy phần ruột"
     ],
-    "hash_code_list_mean": "372998644",
+    "hash_code_list_mean": "-779670514",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688699_4474e159cb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688699_b381032587_o.png",
-        "id_image": "giant_1587062"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688649_d39b9c2465_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688649_dce17ee235_o.png",
-        "id_image": "giant_2463611"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808378432_e09823dfae_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808378432_13ef871a88_o.png",
-        "id_image": "giant_3957289"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809448623_091b8066c4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809448623_a2ab896d16_o.png",
-        "id_image": "giant_4545032"
+        "link_thumb": "https://live.staticflickr.com/65535/51810085270_d1d812e11d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810085270_3d9e83501b_o.png",
+        "id_image": "pulp_2015256"
       }
     ],
-    "hash_code_list_img": "-1240190192",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1680147942",
+    "list_definition_mean": [
+      {
+        "mean_english": "bột giấy",
+        "definition": "a soft mass of other matter, eg of wood pulp from which paper is made",
+        "ex_of_definition_list": [
+          "wood pulp."
+        ]
+      },
+      {
+        "mean_english": "nghiền nhão; lấy phần ruột",
+        "definition": "to make into pulp",
+        "ex_of_definition_list": [
+          "The fruit was pulped and bottled."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "4798528"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/linesman_cb_dmean_5000_it.json",
-    "id_item": "linesman_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/protocol_cb_dmean_5000_it.json",
+    "id_item": "protocol_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "linesman",
+    "english": "protocol",
     "list_mean": [
-      "trọng tài biên"
+      "nghi thức ngoại giao",
+      "nghị định thư",
+      "giao thức",
+      "quy chuẩn"
     ],
-    "hash_code_list_mean": "1718889925",
+    "hash_code_list_mean": "1788964099",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386272_b502e79532_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386272_490d598987_o.png",
-        "id_image": "linesman_4977843"
+        "link_thumb": "https://live.staticflickr.com/65535/51808394407_1d767faedb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808394407_906db5838d_o.png",
+        "id_image": "protocol_3104016"
       }
     ],
-    "hash_code_list_img": "585714961",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "564944595",
+    "list_definition_mean": [
+      {
+        "mean_english": "nghi thức ngoại giao",
+        "definition": "a set of rules about the correct way to behave on a formal or official occasion",
+        "ex_of_definition_list": [
+          "Diplomatic protocol must be observed at all times."
+        ]
+      },
+      {
+        "mean_english": "nghị định thư",
+        "definition": "a written agreement between two or more countries",
+        "ex_of_definition_list": [
+          "the Kyoto protocol on climate change."
+        ]
+      },
+      {
+        "mean_english": "giao thức",
+        "definition": "a set of rules that controls the way in which computers exchange data",
+        "ex_of_definition_list": [
+          "The Internet Protocol (IP) is the method or protocol by which data is sent from one computer to another on the Internet."
+        ]
+      },
+      {
+        "mean_english": "quy chuẩn",
+        "definition": "a set of rules that specifies the correct way to carry out a scientific experiment or to provide medical treatment",
+        "ex_of_definition_list": [
+          "Researchers must follow the agreed protocol."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-325055073"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/literary_cb_dmean_5000_it.json",
-    "id_item": "literary_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sprite_cb_dmean_5000_it.json",
+    "id_item": "sprite_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "literary",
+    "english": "sprite",
     "list_mean": [
-      "văn học",
-      "nhà văn"
+      "yêu quái"
     ],
-    "hash_code_list_mean": "-1650587159",
+    "hash_code_list_mean": "1031766151",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809339716_4285fe1e01_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809339716_7814d15293_o.png",
-        "id_image": "literary_2178155"
+        "link_thumb": "https://live.staticflickr.com/65535/51809466748_434571888d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809466748_2730e564f3_o.png",
+        "id_image": "sprite_4132724"
       }
     ],
-    "hash_code_list_img": "1445559166",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1901945223",
+    "list_definition_mean": [
+      {
+        "mean_english": "yêu quái",
+        "definition": "an elf or fairy",
+        "ex_of_definition_list": [
+          "a water sprite."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1389808979"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/macaw_cb_dmean_5000_it.json",
-    "id_item": "macaw_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/girder_cb_dmean_5000_it.json",
+    "id_item": "girder_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "macaw",
+    "english": "girder",
     "list_mean": [
-      "vẹt đuôi dài"
+      "rầm cầu"
     ],
-    "hash_code_list_mean": "-964734892",
+    "hash_code_list_mean": "-487191320",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686544_2da6b5042c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686544_e2ef22fec2_o.png",
-        "id_image": "macaw_194960"
+        "link_thumb": "https://live.staticflickr.com/65535/51809332546_2d01ba3b2e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332546_53561ea673_o.png",
+        "id_image": "girder_4631745"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810068225_42055d60ee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810068225_8770f3a6e3_o.png",
-        "id_image": "macaw_375130"
+        "link_thumb": "https://live.staticflickr.com/65535/51808377322_f99253cefc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377322_92c409c45a_o.png",
+        "id_image": "girder_4631782"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446493_d2b4e7eae9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446493_71146e24b9_o.png",
-        "id_image": "macaw_4215206"
+        "link_thumb": "https://live.staticflickr.com/65535/51809687499_f87d2b0583_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809687499_2aba6386a0_o.png",
+        "id_image": "girder_6078018"
       }
     ],
-    "hash_code_list_img": "-1658763730",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "607531124",
+    "list_definition_mean": [
+      {
+        "mean_english": "rầm cầu",
+        "definition": "a large beam of steel etc, eg to support a road or bridge",
+        "ex_of_definition_list": [
+          "the steel girders of the bridge."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "666041029"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dice_cb_dmean_5000_it.json",
-    "id_item": "dice_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/balm_cb_dmean_5000_it.json",
+    "id_item": "balm_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "dice",
+    "english": "balm",
     "list_mean": [
-      "súc sắc",
-      "thái hạt lựu",
-      "đánh bạc bằng súc sắc"
+      "sự xoa dịu"
     ],
-    "hash_code_list_mean": "-1548128840",
+    "hash_code_list_mean": "-514694027",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059985_90dd3ba95f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059985_46a4f9c9ea_o.png",
-        "id_image": "dice_1469811"
+        "link_thumb": "https://live.staticflickr.com/65535/51808362132_9b7c1b95f8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808362132_b3496de968_o.png",
+        "id_image": "balm_3629171"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059935_0ed78b7389_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059935_d96af5ffb8_o.png",
-        "id_image": "dice_2228426"
+        "link_thumb": "https://live.staticflickr.com/65535/51808362082_90a5bf9afa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808362082_fbb58e499e_o.png",
+        "id_image": "balm_5100486"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810060020_c18acea3ec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810060020_4b3b8b6bed_o.png",
-        "id_image": "dice_606002"
+        "link_thumb": "https://live.staticflickr.com/65535/51810054315_8cdef3130f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810054315_7bd5648f6c_o.png",
+        "id_image": "balm_546152"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809317741_14bb47c008_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809317741_eac9d51b03_o.png",
+        "id_image": "balm_546153"
       }
     ],
-    "hash_code_list_img": "-1395746763",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1112470179",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự xoa dịu",
+        "definition": "something that soothes",
+        "ex_of_definition_list": [
+          "The music was balm to my ears."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "711483097"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/Internet_cb_dmean_5000_it.json",
-    "id_item": "Internet_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/saloon_cb_dmean_5000_it.json",
+    "id_item": "saloon_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "Internet",
+    "english": "saloon",
     "list_mean": [
-      "mạng máy tính toàn cầu"
+      "phòng khách lớn",
+      "ca-bin dành cho người lái và hành khách",
+      "quán rượu"
     ],
-    "hash_code_list_mean": "-1058360488",
+    "hash_code_list_mean": "-1189351031",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809696729_a0d7988222_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809696729_f28589f511_o.png",
-        "id_image": "internet_287509"
+        "link_thumb": "https://live.staticflickr.com/65535/51809691329_3ec5588529_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691329_e89ac8eb86_o.png",
+        "id_image": "saloon_1353835"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386502_e7a45c6e1d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386502_12a26f76d4_o.png",
-        "id_image": "internet_364138"
+        "link_thumb": "https://live.staticflickr.com/65535/51809450953_66c5705d82_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450953_a07b576ef3_o.png",
+        "id_image": "saloon_2396819"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386477_e7fdb720ab_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386477_c93f1ef1f9_o.png",
-        "id_image": "internet_646462"
+        "link_thumb": "https://live.staticflickr.com/65535/51808381082_bc5dba0965_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381082_27805f73d3_o.png",
+        "id_image": "saloon_683819"
       }
     ],
-    "hash_code_list_img": "1056485631",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1441151481",
+    "list_definition_mean": [
+      {
+        "mean_english": "phòng khách lớn",
+        "definition": "a large public room on a ship",
+        "ex_of_definition_list": [
+          "the dining saloon."
+        ]
+      },
+      {
+        "mean_english": "ca-bin dành cho người lái và hành khách",
+        "definition": "(American sedan) a motor car with enclosed seating space for driver and at least three passengers",
+        "ex_of_definition_list": [
+          "a family saloon."
+        ]
+      },
+      {
+        "mean_english": "quán rượu",
+        "definition": "a place where alcoholic drinks are sold",
+        "ex_of_definition_list": [
+          "The police searched in all the saloons for the thief."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1951676206"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/tasty_cb_dmean_5000_it.json",
-    "id_item": "tasty_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bonnet_cb_dmean_5000_it.json",
+    "id_item": "bonnet_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "tasty",
+    "english": "bonnet",
     "list_mean": [
-      "đầy vị hương"
+      "mũ sơ sinh",
+      "mui xe"
     ],
-    "hash_code_list_mean": "776298787",
+    "hash_code_list_mean": "1013871823",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809354231_97d1611006_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809354231_2d3f13fe7d_o.png",
-        "id_image": "tasty_1612477"
+        "link_thumb": "https://live.staticflickr.com/65535/51809679584_b6dc47523c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679584_fbb4889d7f_o.png",
+        "id_image": "bonnet_1706911"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809468893_842cbd8eb1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809468893_3e4c22cc41_o.png",
-        "id_image": "tasty_3508656"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369322_4842de9a92_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369322_d68c79f125_o.png",
+        "id_image": "bonnet_286502"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809324376_cc40326202_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324376_ae86162590_o.png",
+        "id_image": "bonnet_2917424"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809439398_98a62baab2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439398_eb91e937ab_o.png",
+        "id_image": "bonnet_4632412"
       }
     ],
-    "hash_code_list_img": "1692960566",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-2127823869",
+    "list_definition_mean": [
+      {
+        "mean_english": "mũ sơ sinh",
+        "definition": "(usually baby’s or (old) woman’s) head-dress fastened under the chin eg by strings",
+        "ex_of_definition_list": [
+          "a lace bonnet."
+        ]
+      },
+      {
+        "mean_english": "mui xe",
+        "definition": "the cover of a motor-car engine; hood American I",
+        "ex_of_definition_list": [
+          "I opened the bonnet to see what was wrong with the engine."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "886487019"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hall_cb_dmean_5000_it.json",
-    "id_item": "hall_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/funeral_cb_dmean_5000_it.json",
+    "id_item": "funeral_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "hall",
+    "english": "funeral",
     "list_mean": [
-      "phòng đợi",
-      "hội trường",
-      "toà thị chính",
-      "hành lang",
-      "ký túc xá"
+      "đám tang"
     ],
-    "hash_code_list_mean": "1845515033",
+    "hash_code_list_mean": "24399560",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809316001_3cfdc98dba_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809316001_1092fdec3e_o.png",
-        "id_image": "hall_2474367"
+        "link_thumb": "https://live.staticflickr.com/65535/51809342101_00010a9e93_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342101_79b0dd8c40_o.png",
+        "id_image": "funeral_1699157"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670644_8139c15cee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670644_822d16ee76_o.png",
-        "id_image": "hall_3981093"
+        "link_thumb": "https://live.staticflickr.com/65535/51808387067_c0d7c908b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387067_42f0b3ef88_o.png",
+        "id_image": "funeral_3768607"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697189_aa0f3bd55a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697189_f2cf4b2b41_o.png",
+        "id_image": "funeral_5826070"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079390_f10d7c06ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079390_7ce1318158_o.png",
+        "id_image": "funeral_6000833"
       }
     ],
-    "hash_code_list_img": "-1475923398",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-353523812",
+    "list_definition_mean": [
+      {
+        "mean_english": "đám tang",
+        "definition": "the ceremony before the burying or cremation of a dead body",
+        "ex_of_definition_list": [
+          "A large number of people attended the president’s funeral",
+          "(also adjective) a funeral procession."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1737796650"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/mime_cb_dmean_5000_it.json",
-    "id_item": "mime_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/janitor_cb_dmean_5000_it.json",
+    "id_item": "janitor_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "mime",
+    "english": "janitor",
     "list_mean": [
-      "kịch câm",
-      "vở kịch câm",
-      "nghệ sĩ kịch câm",
-      "diễn kịch câm"
+      "người trông nhà"
     ],
-    "hash_code_list_mean": "997104040",
+    "hash_code_list_mean": "-1467966473",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808387902_ebab78430e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808387902_6d093764c2_o.png",
-        "id_image": "mime_3530999"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809342956_69d6bf557e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809342956_cb999408ec_o.png",
-        "id_image": "mime_773391"
+        "link_thumb": "https://live.staticflickr.com/65535/51809691054_5fdf28736e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809691054_042358922f_o.png",
+        "id_image": "janitor_6032131"
       }
     ],
-    "hash_code_list_img": "-1893086803",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1730129165",
+    "list_definition_mean": [
+      {
+        "mean_english": "người trông nhà",
+        "definition": "a caretaker or a doorkeeper",
+        "ex_of_definition_list": [
+          "He works as a school janitor."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "377957484"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/assurance_cb_dmean_5000_it.json",
-    "id_item": "assurance_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/newspaper_cb_dmean_5000_it.json",
+    "id_item": "newspaper_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "assurance",
+    "english": "newspaper",
     "list_mean": [
-      "sự tự tin",
-      "sự bảo đảm",
-      "bảo hiểm"
+      "báo"
     ],
-    "hash_code_list_mean": "1899779245",
+    "hash_code_list_mean": "101295",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809657994_eab84eebf8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809657994_614ca9dbac_o.png",
-        "id_image": "assurance_4157207"
+        "link_thumb": "https://live.staticflickr.com/65535/51808368067_84a223eabe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368067_c9543b9f28_o.png",
+        "id_image": "newspaper_168668"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810039305_fcfcfd1f62_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810039305_bd4452f73c_o.png",
-        "id_image": "assurance_5386984"
+        "link_thumb": "https://live.staticflickr.com/65535/51809438263_e717f6bde6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438263_820783a614_o.png",
+        "id_image": "newspaper_420448"
       }
     ],
-    "hash_code_list_img": "1683000727",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-835700287",
+    "list_definition_mean": [
+      {
+        "mean_english": "báo",
+        "definition": "a paper, printed daily or weekly, containing news etc",
+        "ex_of_definition_list": [
+          "a daily newspaper."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1185502190"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/nerve_cb_dmean_5000_it.json",
-    "id_item": "nerve_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/schizophrenia_cb_dmean_5000_it.json",
+    "id_item": "schizophrenia_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "nerve",
+    "english": "schizophrenia",
     "list_mean": [
-      "dây thần kinh",
-      "sự can đảm",
-      "táo tợn",
-      "truyền can đảm"
+      "bệnh tâm thần phân liệt"
     ],
-    "hash_code_list_mean": "-1905161973",
+    "hash_code_list_mean": "-2047357022",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808369612_81bdff6a6f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808369612_c36863d631_o.png",
-        "id_image": "nerve_5730174"
+        "link_thumb": "https://live.staticflickr.com/65535/51810067445_e0b388f9d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067445_1df94ec5bb_o.png",
+        "id_image": "schizophrenia_3997819"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061655_8b19bf15cc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061655_856c6f40e7_o.png",
-        "id_image": "nerve_5746696"
+        "link_thumb": "https://live.staticflickr.com/65535/51809685649_e75b260539_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685649_80206bfcbd_o.png",
+        "id_image": "schizophrenia_4897142"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375252_7a1fc75bd3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375252_6667625510_o.png",
+        "id_image": "schizophrenia_5705111"
       }
     ],
-    "hash_code_list_img": "879359297",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1746089353",
+    "list_definition_mean": [
+      {
+        "mean_english": "bệnh tâm thần phân liệt",
+        "definition": "a form of insanity in which the patient becomes severely withdrawn from reality, has delusions etc",
+        "ex_of_definition_list": [
+          "He has been diagnosed with schizophrenia."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "551797864"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/bacteria_cb_dmean_5000_it.json",
-    "id_item": "bacteria_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/swipe_cb_dmean_5000_it.json",
+    "id_item": "swipe_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "bacteria",
+    "english": "swipe",
     "list_mean": [
-      "vi khuẩn"
+      "đánh mạnh và liều",
+      "cú đánh mạnh và liều"
     ],
-    "hash_code_list_mean": "-789800945",
+    "hash_code_list_mean": "-906563016",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808366262_ff01a73484_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808366262_2814a94178_o.png",
-        "id_image": "bacteria_1176251"
+        "link_thumb": "https://live.staticflickr.com/65535/51809686979_6d6e291256_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686979_47cc84a25e_o.png",
+        "id_image": "swipe_2121059"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809676369_05273321d4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809676369_9949304022_o.png",
-        "id_image": "bacteria_1343904"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436543_81cfdf54df_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436543_da5045da36_o.png",
-        "id_image": "bacteria_2563396"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436493_abb17a07c5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436493_c27ee28ab3_o.png",
-        "id_image": "bacteria_2873787"
+        "link_thumb": "https://live.staticflickr.com/65535/51808376757_0966d90fbd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376757_915d9cc802_o.png",
+        "id_image": "swipe_219658"
       }
     ],
-    "hash_code_list_img": "-1152811413",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "89214888",
+    "list_definition_mean": [
+      {
+        "mean_english": "đánh mạnh và liều",
+        "definition": "to hit hard",
+        "ex_of_definition_list": [
+          "She swiped the tennis ball over the net",
+          "He swiped at the wasp, but didn’t hit it."
+        ]
+      },
+      {
+        "mean_english": "cú đánh mạnh và liều",
+        "definition": "a hard hit",
+        "ex_of_definition_list": [
+          "She took a swipe at the ball with her bat."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1675625795"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hygienic_cb_dmean_5000_it.json",
-    "id_item": "hygienic_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/Buddhism_cb_dmean_5000_it.json",
+    "id_item": "Buddhism_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "hygienic",
+    "english": "Buddhism",
     "list_mean": [
-      "hợp vệ sinh"
+      "Đạo Phật"
     ],
-    "hash_code_list_mean": "2020532115",
+    "hash_code_list_mean": "1582499712",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325646_2fbeae5f90_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325646_39a3c48380_o.png",
-        "id_image": "hygienic_247592"
+        "link_thumb": "https://live.staticflickr.com/65535/51809313391_691352a987_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809313391_8cb4ba590c_o.png",
+        "id_image": "buddhism_1507035"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440638_6a7c1199fb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440638_e7c421656e_o.png",
-        "id_image": "hygienic_339976"
+        "link_thumb": "https://live.staticflickr.com/65535/51808357377_2ebb46445a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808357377_966b66d7e5_o.png",
+        "id_image": "buddhism_3498314"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062380_7b9a8f328f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062380_5a820ef23d_o.png",
-        "id_image": "hygienic_343815"
+        "link_thumb": "https://live.staticflickr.com/65535/51809668144_b57e32ee31_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809668144_bcd4302a80_o.png",
+        "id_image": "buddhism_4601109"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062355_8cb67f14ac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062355_aaa2fef861_o.png",
-        "id_image": "hygienic_3663434"
+        "link_thumb": "https://live.staticflickr.com/65535/51809428138_842fa66aa6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809428138_8e7e06204c_o.png",
+        "id_image": "buddhism_5864776"
       }
     ],
-    "hash_code_list_img": "813811315",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1729258035",
+    "list_definition_mean": [
+      {
+        "mean_english": "Đạo Phật",
+        "definition": "the religion founded by Gautama or Buddha",
+        "ex_of_definition_list": [
+          "Zen Buddhism."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1081159432"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/declaration_cb_dmean_5000_it.json",
-    "id_item": "declaration_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/ceremonial_cb_dmean_5000_it.json",
+    "id_item": "ceremonial_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "declaration",
+    "english": "ceremonial",
     "list_mean": [
-      "sự tuyên bố"
+      "nghi thức"
     ],
-    "hash_code_list_mean": "444545428",
+    "hash_code_list_mean": "-1280140269",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808351457_643f52faee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808351457_ec81f74119_o.png",
-        "id_image": "declaration_2463834"
+        "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+        "id_image": "ceremonial_2412231"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810044280_d37d684c83_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810044280_98c6604fb9_o.png",
-        "id_image": "declaration_2688839"
+        "link_thumb": "https://live.staticflickr.com/65535/51810052510_a45669befe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810052510_cda5dacf32_o.png",
+        "id_image": "ceremonial_422117"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809307311_f833680a60_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809307311_7c3b2dcfdf_o.png",
-        "id_image": "declaration_3530058"
+        "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+        "id_image": "ceremony_1699158"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809307286_a741fe1185_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809307286_477db535d6_o.png",
-        "id_image": "declaration_3842673"
+        "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+        "id_image": "ceremony_3965938"
       }
     ],
-    "hash_code_list_img": "-239533742",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "545866778",
+    "list_definition_mean": [
+      {
+        "mean_english": "nghi thức",
+        "definition": "formal or official",
+        "ex_of_definition_list": [
+          "a ceremonial occasion such as the State Opening of Parliament."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "217479255"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/music_cb_dmean_5000_it.json",
-    "id_item": "music_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/veto_cb_dmean_5000_it.json",
+    "id_item": "veto_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "music",
+    "english": "veto",
     "list_mean": [
-      "âm nhạc",
-      "bản nhạc"
+      "phủ quyết, bác bỏ",
+      "quyền phủ quyết, sự bác bỏ"
     ],
-    "hash_code_list_mean": "-1551360801",
+    "hash_code_list_mean": "530480263",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809445838_a89da6ebb2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809445838_ffec26e0ec_o.png",
-        "id_image": "music_183605"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809685859_f975a5068c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809685859_5414d0c211_o.png",
-        "id_image": "music_439532"
+        "link_thumb": "https://live.staticflickr.com/65535/51809700394_9442b1e3bd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700394_2b8bdb71d1_o.png",
+        "id_image": "veto_2473207"
       }
     ],
-    "hash_code_list_img": "-1095132239",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1235155373",
+    "list_definition_mean": [
+      {
+        "mean_english": "phủ quyết, bác bỏ",
+        "definition": "to forbid, or refuse to consent to",
+        "ex_of_definition_list": [
+          "They vetoed your suggestion."
+        ]
+      },
+      {
+        "mean_english": "quyền phủ quyết, sự bác bỏ",
+        "definition": "(also power of veto) the power or right to refuse or forbid",
+        "ex_of_definition_list": [
+          "the chairman’s (power of) veto."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1599827175"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sister_cb_dmean_5000_it.json",
-    "id_item": "sister_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/compost_cb_dmean_5000_it.json",
+    "id_item": "compost_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "sister",
+    "english": "compost",
     "list_mean": [
-      "chị, em gái",
-      "bà xơ",
-      "bà chị ,cô em",
-      "chị em",
-      "có tính chất chị em"
+      "phân xanh"
     ],
-    "hash_code_list_mean": "-776293925",
+    "hash_code_list_mean": "-2107955874",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810073910_e0d3782b17_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810073910_3697e32e0f_o.png",
-        "id_image": "sister_4842391"
+        "link_thumb": "https://live.staticflickr.com/65535/51810051650_c589ccae9f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810051650_e7fcde5296_o.png",
+        "id_image": "compost_1208497"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810051635_3f20dc49cf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810051635_0b8bcfcbd4_o.png",
+        "id_image": "compost_4660787"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809315081_9fc55e0537_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315081_b628ff29f3_o.png",
+        "id_image": "compost_4745537"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809315071_2217b11bcd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315071_4ae73dc23d_o.png",
+        "id_image": "compost_6041349"
       }
     ],
-    "hash_code_list_img": "927339386",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "411377257",
+    "list_definition_mean": [
+      {
+        "mean_english": "phân xanh",
+        "definition": "rotting vegetable matter etc used as fertilizer",
+        "ex_of_definition_list": [
+          "(also adjective) a compost heap."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "613630593"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/barter_cb_dmean_5000_it.json",
-    "id_item": "barter_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/basket_cb_dmean_5000_it.json",
+    "id_item": "basket_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "barter",
+    "english": "basket",
     "list_mean": [
-      "đổi hàng lấy hàng",
-      "sự trao đổi hàng lấy hàng"
+      "cái rổ"
     ],
-    "hash_code_list_mean": "-376463889",
+    "hash_code_list_mean": "-1249718857",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808358837_02fac02305_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808358837_cb7f7c7ed5_o.png",
-        "id_image": "barter_4313138"
+        "link_thumb": "https://live.staticflickr.com/65535/51809429103_8db07d7cc1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809429103_ee115a21e9_o.png",
+        "id_image": "basket_207748"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809429053_82d641aaa3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809429053_e096e7865d_o.png",
+        "id_image": "basket_471446"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809429018_e7df12417a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809429018_cf1ae89538_o.png",
+        "id_image": "basket_869006"
       }
     ],
-    "hash_code_list_img": "174268901",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "2024547345",
+    "list_definition_mean": [
+      {
+        "mean_english": "cái rổ",
+        "definition": "a container made of strips of wood, rushes etc woven together",
+        "ex_of_definition_list": [
+          "She was carrying a large basket",
+          "The basket was filled with groceries."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1527061115"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/colony_cb_dmean_5000_it.json",
-    "id_item": "colony_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/discovery_cb_dmean_5000_it.json",
+    "id_item": "discovery_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "colony",
+    "english": "discovery",
     "list_mean": [
-      "thuộc địa",
-      "nhóm người cùng nghề",
-      "đàn"
+      "khám phá"
     ],
-    "hash_code_list_mean": "1306461142",
+    "hash_code_list_mean": "1856534321",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810058105_43f6f3c6e8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810058105_87e864ee6c_o.png",
-        "id_image": "colony_749499"
+        "link_thumb": "https://live.staticflickr.com/65535/51809432493_80a4b171d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809432493_acdc2da889_o.png",
+        "id_image": "discovery_2116910"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808361687_95f67fe56d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808361687_6b1484ed0e_o.png",
+        "id_image": "discovery_3534064"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809432448_f7e26db18e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809432448_1b5ed269fd_o.png",
+        "id_image": "discovery_4515584"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809432428_da46a7bd33_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809432428_b18e73fa12_o.png",
+        "id_image": "discovery_4515650"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809432388_f2c644906c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809432388_e5df49aeda_o.png",
+        "id_image": "discovery_5234365"
       }
     ],
-    "hash_code_list_img": "1981839611",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-53595351",
+    "list_definition_mean": [
+      {
+        "mean_english": "khám phá",
+        "definition": "the process of discovering something, or something that is discovered",
+        "ex_of_definition_list": [
+          "a scientific discovery",
+          "a voyage of discovery",
+          "She made several startling discoveries."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1489997747"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/magnetism_cb_dmean_5000_it.json",
-    "id_item": "magnetism_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/patchwork_cb_dmean_5000_it.json",
+    "id_item": "patchwork_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "magnetism",
+    "english": "patchwork",
     "list_mean": [
-      "sức hấp dẫn",
-      "từ tính"
+      "miếng vải chắp vá"
     ],
-    "hash_code_list_mean": "-1948179018",
+    "hash_code_list_mean": "54924124",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684484_0b41f1cba4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684484_47f8957522_o.png",
-        "id_image": "magnetism_1974414"
+        "link_thumb": "https://live.staticflickr.com/65535/51809683624_d823ba6cc2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683624_d537fdbc7c_o.png",
+        "id_image": "patchwork_2133960"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444433_32fa73030f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444433_b84fb4542a_o.png",
-        "id_image": "magnetism_2286215"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810066210_5c06089ac3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810066210_f00abcc0d3_o.png",
-        "id_image": "magnetism_5008251"
+        "link_thumb": "https://live.staticflickr.com/65535/51808373227_4cdceaef91_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373227_d8ed82b4d2_o.png",
+        "id_image": "patchwork_6306788"
       }
     ],
-    "hash_code_list_img": "62869235",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "229690120",
+    "list_definition_mean": [
+      {
+        "mean_english": "miếng vải chắp vá",
+        "definition": "cloth made by sewing small pieces of material together",
+        "ex_of_definition_list": [
+          "a skirt made of patchwork",
+          "(also adjective) a patchwork quilt."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1067414046"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/primitive_cb_dmean_5000_it.json",
-    "id_item": "primitive_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/true_cb_dmean_5000_it.json",
+    "id_item": "true_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "primitive",
+    "english": "true",
     "list_mean": [
-      "nguyên thuỷ",
-      "thô sơ"
+      "thật",
+      "chính xác",
+      "chân thật",
+      "được gọi là"
     ],
-    "hash_code_list_mean": "-1471135398",
+    "hash_code_list_mean": "-607911958",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440663_d62f505d7c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440663_b26f2d1b92_o.png",
-        "id_image": "primitive_2604879"
+        "link_thumb": "https://live.staticflickr.com/65535/51809331466_3738d3a68c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331466_aa46cf819a_o.png",
+        "id_image": "true_5226408"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809680699_153526b0b2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809680699_0fd6f8cbcf_o.png",
-        "id_image": "primitive_2604886"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440593_52f4901e0d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440593_751049059b_o.png",
-        "id_image": "primitive_2604889"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808370347_3cf723d20d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808370347_177b5ce744_o.png",
-        "id_image": "primitive_4744284"
+        "link_thumb": "https://live.staticflickr.com/65535/51809331396_cf46183e7a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331396_16184c9540_o.png",
+        "id_image": "true_5706248"
       }
     ],
-    "hash_code_list_img": "-1118879735",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-2012883187",
+    "list_definition_mean": [
+      {
+        "mean_english": "thật",
+        "definition": "(opposite untrue) telling of something that really happened; not invented; agreeing with fact; not wrong",
+        "ex_of_definition_list": [
+          "That is a true statement",
+          "Is it true that you did not steal the ring?"
+        ]
+      },
+      {
+        "mean_english": "chính xác",
+        "definition": "(opposite untrue) accurate",
+        "ex_of_definition_list": [
+          "They don’t have a true idea of its importance."
+        ]
+      },
+      {
+        "mean_english": "chân thật",
+        "definition": "(opposite untrue) faithful; loyal",
+        "ex_of_definition_list": [
+          "He has been a true friend."
+        ]
+      },
+      {
+        "mean_english": "được gọi là",
+        "definition": "properly so called",
+        "ex_of_definition_list": [
+          "A spider is not a true insect."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "521295759"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/chassis_cb_dmean_5000_it.json",
-    "id_item": "chassis_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preview_cb_dmean_5000_it.json",
+    "id_item": "preview_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "chassis",
+    "english": "preview",
     "list_mean": [
-      "khung gầm"
+      "cuộc duyệt trước"
     ],
-    "hash_code_list_mean": "448922429",
+    "hash_code_list_mean": "776638634",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809667619_17948a90b5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809667619_ae97cf9640_o.png",
-        "id_image": "chassis_4805733"
+        "link_thumb": "https://live.staticflickr.com/65535/51808371402_bea2c85f28_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371402_a60fd29ab8_o.png",
+        "id_image": "preview_1188528"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809312776_01219203ca_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809312776_2214c1ee59_o.png",
-        "id_image": "chassis_560685"
+        "link_thumb": "https://live.staticflickr.com/65535/51810063560_f320426c9f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063560_3a309866b1_o.png",
+        "id_image": "preview_5982726"
       }
     ],
-    "hash_code_list_img": "-66548965",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1098805710",
+    "list_definition_mean": [
+      {
+        "mean_english": "cuộc duyệt trước",
+        "definition": "a viewing of a performance, exhibition etc before it is open to the public",
+        "ex_of_definition_list": [
+          "a sneak preview of the film."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "27818864"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/exit_cb_dmean_5000_it.json",
-    "id_item": "exit_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/escape_cb_dmean_5000_it.json",
+    "id_item": "escape_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "exit",
+    "english": "escape",
     "list_mean": [
-      "lối ra",
-      "sự đi vào của diễn viên",
-      "sự đi khỏi",
-      "đi vào"
+      "trốn thoát",
+      "tránh được",
+      "bị bỏ sót",
+      "thoát ra",
+      "sự trốn thoát"
     ],
-    "hash_code_list_mean": "1191411675",
+    "hash_code_list_mean": "-1188261912",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808354987_9528ef8547_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808354987_4d64798a79_o.png",
-        "id_image": "exit_2034093"
+        "link_thumb": "https://live.staticflickr.com/65535/51808359702_360b59396e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808359702_40c87bdef2_o.png",
+        "id_image": "escape_2456285"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810047590_76c8feeebf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810047590_66c628eda0_o.png",
-        "id_image": "exit_4628291"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809665964_fb9fb27a2d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809665964_57884c8837_o.png",
-        "id_image": "exit_891374"
+        "link_thumb": "https://live.staticflickr.com/65535/51809315571_e76ee4e9d9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315571_0a931054db_o.png",
+        "id_image": "escape_2456288"
       }
     ],
-    "hash_code_list_img": "-2032597399",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1425985583",
+    "list_definition_mean": [
+      {
+        "mean_english": "trốn thoát",
+        "definition": "to gain freedom",
+        "ex_of_definition_list": [
+          "He escaped from prison."
+        ]
+      },
+      {
+        "mean_english": "tránh được",
+        "definition": "to manage to avoid (punishment, disease etc)",
+        "ex_of_definition_list": [
+          "She was lucky to escape punishment."
+        ]
+      },
+      {
+        "mean_english": "bị bỏ sót",
+        "definition": "to avoid being noticed or remembered by; to avoid (the observation of)",
+        "ex_of_definition_list": [
+          "The fact escaped me / my notice",
+          "His name escapes me / my memory."
+        ]
+      },
+      {
+        "mean_english": "thoát ra",
+        "definition": "(of a gas, liquid etc) to leak; to find a way out",
+        "ex_of_definition_list": [
+          "Gas was escaping from a hole in the pipe."
+        ]
+      },
+      {
+        "mean_english": "sự trốn thoát",
+        "definition": "(act of) escaping; state of having escaped",
+        "ex_of_definition_list": [
+          "Make your escape while the guard is away",
+          "There have been several escapes from that prison",
+          "Escape was impossible",
+          "The explosion was caused by an escape of gas."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1994007139"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/worm_cb_dmean_5000_it.json",
-    "id_item": "worm_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/milestone_cb_dmean_5000_it.json",
+    "id_item": "milestone_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "worm",
+    "english": "milestone",
     "list_mean": [
-      "con giun",
-      "luồn vào",
-      "moi tin"
+      "cột cây số",
+      "điểm mốc lịch sử"
     ],
-    "hash_code_list_mean": "1507098223",
+    "hash_code_list_mean": "90615154",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809448538_7c4447aa7d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809448538_2277304dd7_o.png",
-        "id_image": "worm_2959415"
+        "link_thumb": "https://live.staticflickr.com/65535/51809458653_852be419d6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809458653_a09f9de802_o.png",
+        "id_image": "milestone_2910923"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688509_d045f31463_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688509_af487034f7_o.png",
-        "id_image": "worm_350973"
+        "link_thumb": "https://live.staticflickr.com/65535/51809343876_0c0e3a2e6c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343876_4d7df2bb76_o.png",
+        "id_image": "milestone_5521113"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343861_4742708479_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343861_0cd1a6e79b_o.png",
+        "id_image": "milestone_5521174"
       }
     ],
-    "hash_code_list_img": "115404317",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1354949363",
+    "list_definition_mean": [
+      {
+        "mean_english": "điểm mốc lịch sử",
+        "definition": "a very important event",
+        "ex_of_definition_list": [
+          "The discovery of penicillin was a milestone in medical history."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1579823199"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/fortification_cb_dmean_5000_it.json",
-    "id_item": "fortification_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/installation_cb_dmean_5000_it.json",
+    "id_item": "installation_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "fortification",
+    "english": "installation",
     "list_mean": [
-      "xây công sự",
-      "việc xây công sự"
+      "sự lắp đặt",
+      "cái được lắp đặt"
     ],
-    "hash_code_list_mean": "-1648813584",
+    "hash_code_list_mean": "388888727",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809429368_64b1a75c2b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809429368_3256865fd2_o.png",
-        "id_image": "fortification_353321"
+        "link_thumb": "https://live.staticflickr.com/65535/51810081945_26d07acbd0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810081945_cec0dd292f_o.png",
+        "id_image": "installation_2568922"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809699569_75b10d6400_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809699569_482b9a8699_o.png",
+        "id_image": "installation_2714631"
       }
     ],
-    "hash_code_list_img": "206455850",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "151098657",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự lắp đặt",
+        "definition": "the act of installing",
+        "ex_of_definition_list": [
+          "software installation."
+        ]
+      },
+      {
+        "mean_english": "cái được lắp đặt",
+        "definition": "a piece of equipment that has been installed",
+        "ex_of_definition_list": [
+          "The cooker, fridge, and other electrical installations are all in working order."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1009772097"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/spinal_cb_dmean_5000_it.json",
-    "id_item": "spinal_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/cork_cb_dmean_5000_it.json",
+    "id_item": "cork_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "spinal",
+    "english": "cork",
     "list_mean": [
-      "liên quan đến xương sống"
+      "li e; bần",
+      "nút chai",
+      "đóng nút bần"
     ],
-    "hash_code_list_mean": "-632513180",
+    "hash_code_list_mean": "-291322424",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809468608_5b761b1e23_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809468608_acd6e9865b_o.png",
-        "id_image": "spinal_1823747"
+        "link_thumb": "https://live.staticflickr.com/65535/51809332261_bf21db9445_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332261_d4ef3abc41_o.png",
+        "id_image": "cork_4185214"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810068970_66195e8349_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068970_30929a4152_o.png",
+        "id_image": "cork_4471418"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809332311_6eee95de79_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332311_6674929719_o.png",
+        "id_image": "cork_804683"
       }
     ],
-    "hash_code_list_img": "1015983874",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1741964215",
+    "list_definition_mean": [
+      {
+        "mean_english": "li e; bần",
+        "definition": "the outer bark of the cork tree (an oak of South Europe, North Africa etc)",
+        "ex_of_definition_list": [
+          "Cork floats well",
+          "(also adjective) cork floor tiles."
+        ]
+      },
+      {
+        "mean_english": "nút chai",
+        "definition": "a stopper for a bottle etc made of cork",
+        "ex_of_definition_list": [
+          "Put the cork back in the wine-bottle."
+        ]
+      },
+      {
+        "mean_english": "đóng nút bần",
+        "definition": "to put a cork or stopper in",
+        "ex_of_definition_list": [
+          "He corked the bottle."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1963398972"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/near_cb_dmean_5000_it.json",
-    "id_item": "near_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/agenda_cb_dmean_5000_it.json",
+    "id_item": "agenda_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "near",
+    "english": "agenda",
     "list_mean": [
-      "gần",
-      "họ hàng gần",
-      "đến gần"
+      "chương trình hội nghị"
     ],
-    "hash_code_list_mean": "971821249",
+    "hash_code_list_mean": "35923628",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810063720_7a26341f72_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810063720_ebd0e0da01_o.png",
-        "id_image": "near_4843169"
+        "link_thumb": "https://live.staticflickr.com/65535/51809434073_33e6e96be8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809434073_799974b772_o.png",
+        "id_image": "agenda_392776"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809318821_fc9b010dbf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318821_8179af058a_o.png",
+        "id_image": "agenda_419277"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808363357_4bfe1a9240_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808363357_90884f3170_o.png",
+        "id_image": "agenda_494719"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809318751_5b66407500_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318751_b99484794f_o.png",
+        "id_image": "agenda_735185"
       }
     ],
-    "hash_code_list_img": "1787512779",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1921931252",
+    "list_definition_mean": [
+      {
+        "mean_english": "chương trình hội nghị",
+        "definition": "a list of things to be done, especially at a meeting",
+        "ex_of_definition_list": [
+          "What’s on the agenda this morning?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1816326848"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/fluid_cb_dmean_5000_it.json",
-    "id_item": "fluid_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/creator_cb_dmean_5000_it.json",
+    "id_item": "creator_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "fluid",
+    "english": "creator",
     "list_mean": [
-      "một chất lỏng nào đó",
-      "chất lỏng",
-      "thuộc chất lưu",
-      "nhẹ nhàng, uyển chuyển",
-      "không cố định"
+      "người sáng tạo"
     ],
-    "hash_code_list_mean": "-215059703",
+    "hash_code_list_mean": "-87080987",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809319486_7efc0a726d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809319486_1d77271851_o.png",
-        "id_image": "fluid_1488163"
+        "link_thumb": "https://live.staticflickr.com/65535/51809322046_74ae0085c8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809322046_25671d27fb_o.png",
+        "id_image": "creator_1655133"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808364127_0a6e90d678_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808364127_639c6c36ca_o.png",
-        "id_image": "fluid_2037143"
+        "link_thumb": "https://live.staticflickr.com/65535/51810058785_1b1b127f13_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810058785_b78887385d_o.png",
+        "id_image": "creator_2418542"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810055970_2ecb6869ea_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810055970_f5be56bfd0_o.png",
-        "id_image": "fluid_5823400"
+        "link_thumb": "https://live.staticflickr.com/65535/51809321986_b8160d0e84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809321986_d31f318a89_o.png",
+        "id_image": "creator_4736278"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810058675_cbe0114da6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810058675_de406700b1_o.png",
+        "id_image": "creator_6295335"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809676989_05ed7a8503_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809676989_15a652f299_o.png",
+        "id_image": "creator_6417498"
       }
     ],
-    "hash_code_list_img": "-1979412242",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-865720669",
+    "list_definition_mean": [
+      {
+        "mean_english": "người sáng tạo",
+        "definition": "a person who creates",
+        "ex_of_definition_list": [
+          "He is the creator of a successful TV detective series."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "892466153"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dismiss_cb_dmean_5000_it.json",
-    "id_item": "dismiss_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/meal_cb_dmean_5000_it.json",
+    "id_item": "meal_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "dismiss",
+    "english": "meal",
     "list_mean": [
-      "sa thải",
-      "thải hồi",
-      "bác bỏ"
+      "bữa ăn",
+      "bột xay thô"
     ],
-    "hash_code_list_mean": "-489283972",
+    "hash_code_list_mean": "1596390775",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315636_360df7c446_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315636_d9a6db81c2_o.png",
-        "id_image": "dismissed_1533220"
+        "link_thumb": "https://live.staticflickr.com/65535/51810055500_6a037d319c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055500_ce3977f31f_o.png",
+        "id_image": "meal_3274099"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670264_db56a80d1c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670264_c9e128a691_o.png",
-        "id_image": "dismissed_5692046"
+        "link_thumb": "https://live.staticflickr.com/65535/51810055465_f571e1625b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055465_6245d5071a_o.png",
+        "id_image": "meal_3595881"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359922_dd4c94ea5c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359922_4bd54e9fb0_o.png",
-        "id_image": "dismiss_5692029"
+        "link_thumb": "https://live.staticflickr.com/65535/51808363467_6296004f79_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808363467_963d0fd29c_o.png",
+        "id_image": "meal_3967376"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809430603_1b532839cf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809430603_d2f3c1e0c6_o.png",
-        "id_image": "dismiss_5692454"
+        "link_thumb": "https://live.staticflickr.com/65535/51809318946_68f6013639_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318946_6a6026318a_o.png",
+        "id_image": "meal_649067"
       }
     ],
-    "hash_code_list_img": "-1698034202",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "278299813",
+    "list_definition_mean": [
+      {
+        "mean_english": "bữa ăn",
+        "definition": "the food taken at one time",
+        "ex_of_definition_list": [
+          "a three-course meal",
+          "a hearty meal",
+          "She eats three meals a day."
+        ]
+      },
+      {
+        "mean_english": "bột xay thô",
+        "definition": "the edible parts of grain ground to a coarse powder",
+        "ex_of_definition_list": [
+          "a sack of meal",
+          "oatmeal."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-955747355"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dagger_cb_dmean_5000_it.json",
-    "id_item": "dagger_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/wall_cb_dmean_5000_it.json",
+    "id_item": "wall_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "dagger",
+    "english": "wall",
     "list_mean": [
-      "dao găm"
+      "bức tường",
+      "tường nhà",
+      "xây tường bao quanh"
     ],
-    "hash_code_list_mean": "1436653826",
+    "hash_code_list_mean": "-1600611387",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810048610_0cd041e171_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810048610_3164d623ef_o.png",
-        "id_image": "dagger_2142850"
+        "link_thumb": "https://live.staticflickr.com/65535/51810075620_0494564c83_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075620_634de6df90_o.png",
+        "id_image": "wall_270067"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808356037_1aa838874e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808356037_3068c6cbbe_o.png",
-        "id_image": "dagger_2614269"
+        "link_thumb": "https://live.staticflickr.com/65535/51810075585_b17db248a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075585_218e0fd35f_o.png",
+        "id_image": "wall_3417087"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809311966_edb13f7a0c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809311966_e87dc64844_o.png",
-        "id_image": "dagger_3416975"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810048530_ec51d97d1d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810048530_f71f40750a_o.png",
-        "id_image": "dagger_3557441"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809666874_1887258956_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809666874_24e531298a_o.png",
-        "id_image": "dagger_488354"
+        "link_thumb": "https://live.staticflickr.com/65535/51808383417_d466cf3b62_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383417_1d5d28d638_o.png",
+        "id_image": "wall_5234284"
       }
     ],
-    "hash_code_list_img": "1304485141",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "660009709",
+    "list_definition_mean": [
+      {
+        "mean_english": "bức tường",
+        "definition": "something built of stone, brick, plaster, wood etc and used to separate off or enclose something",
+        "ex_of_definition_list": [
+          "There’s a wall at the bottom of the garden",
+          "The Great Wall of China",
+          "a garden wall."
+        ]
+      },
+      {
+        "mean_english": "tường nhà",
+        "definition": "any of the sides of a building or room",
+        "ex_of_definition_list": [
+          "One wall of the room is yellow – the rest are white."
+        ]
+      },
+      {
+        "mean_english": "xây tường bao quanh",
+        "definition": "(often with in) to enclose (something) with a wall",
+        "ex_of_definition_list": [
+          "We’ve walled in the playground to prevent the children getting out."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-59318716"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/household_cb_dmean_5000_it.json",
-    "id_item": "household_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/sword_cb_dmean_5000_it.json",
+    "id_item": "sword_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "household",
+    "english": "sword",
     "list_mean": [
-      "hộ gia đình"
+      "gươm, kiếm, đao"
     ],
-    "hash_code_list_mean": "-657915740",
+    "hash_code_list_mean": "-79275435",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810066245_aa12f7d50b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810066245_bfe233f7be_o.png",
-        "id_image": "household_1998563"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684384_9df5edeb36_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684384_362f0e53a0_o.png",
-        "id_image": "household_2421811"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684329_4388a7be36_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684329_7dcee5715f_o.png",
-        "id_image": "household_4232424"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810066125_1c36af3854_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810066125_d7739438cb_o.png",
-        "id_image": "household_4433802"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810066080_3d3d473ee6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810066080_49b3a3402a_o.png",
-        "id_image": "household_5459489"
+        "link_thumb": "https://live.staticflickr.com/65535/51809686539_7b91bdb4f8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686539_3297b1ecba_o.png",
+        "id_image": "sword_942409"
       }
     ],
-    "hash_code_list_img": "1337747456",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1278196220",
+    "list_definition_mean": [
+      {
+        "mean_english": "gươm, kiếm, đao",
+        "definition": "a weapon with a long blade that is sharp on one or both edges",
+        "ex_of_definition_list": [
+          "He drew his sword (from its sheath) and killed the man."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "573242502"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/herb_cb_dmean_5000_it.json",
-    "id_item": "herb_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/beat_cb_dmean_5000_it.json",
+    "id_item": "beat_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "herb",
+    "english": "beat",
     "list_mean": [
-      "thảo dược"
+      "đập; nện",
+      "đánh bại ai",
+      "đánh tơi; khuấy",
+      "đập (nói về tim)",
+      "đánh dấu",
+      "hịp đánh",
+      "khu vực phân cho một viên cảnh sát"
     ],
-    "hash_code_list_mean": "-882227893",
+    "hash_code_list_mean": "1549045338",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809453673_97b0a803f5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809453673_b57c0e5108_o.png",
-        "id_image": "herb_1653063"
+        "link_thumb": "https://live.staticflickr.com/65535/51810047850_874945cc2e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810047850_1cbe9cb8a0_o.png",
+        "id_image": "beat_1753158"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809453648_2a8e8fb90c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809453648_dc1e848f73_o.png",
-        "id_image": "herb_1653105"
+        "link_thumb": "https://live.staticflickr.com/65535/51808355272_c58a48ff36_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808355272_c2e35fc589_o.png",
+        "id_image": "beat_1753164"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809453583_531e8104d4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809453583_dbd9a1d16c_o.png",
-        "id_image": "herb_1902982"
+        "link_thumb": "https://live.staticflickr.com/65535/51809311086_f79052281f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809311086_f2c6fe2271_o.png",
+        "id_image": "beat_1753377"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809666094_06d2e10791_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809666094_38e8261ba6_o.png",
+        "id_image": "beat_3690085"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810047755_2fe084aae1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810047755_7bd1032199_o.png",
+        "id_image": "beat_4382700"
       }
     ],
-    "hash_code_list_img": "-848033984",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1242884177",
+    "list_definition_mean": [
+      {
+        "mean_english": "đập; nện",
+        "definition": "to strike or hit repeatedly",
+        "ex_of_definition_list": [
+          "He was beating a large drum."
+        ]
+      },
+      {
+        "mean_english": "đánh bại ai",
+        "definition": "to win against",
+        "ex_of_definition_list": [
+          "She beat me in a game of poker."
+        ]
+      },
+      {
+        "mean_english": "đánh tơi; khuấy",
+        "definition": "to mix thoroughly",
+        "ex_of_definition_list": [
+          "Lightly beat an egg."
+        ]
+      },
+      {
+        "mean_english": "đập (nói về tim)",
+        "definition": "to move in a regular rhythm",
+        "ex_of_definition_list": [
+          "My heart is beating faster than usual."
+        ]
+      },
+      {
+        "mean_english": "đánh dấu",
+        "definition": "to mark or indicate (musical time) with a baton etc",
+        "ex_of_definition_list": [
+          "A conductor beats time for an orchestra."
+        ]
+      },
+      {
+        "mean_english": "hịp đánh",
+        "definition": "a regular stroke or its sound",
+        "ex_of_definition_list": [
+          "the pulsating beat of the music."
+        ]
+      },
+      {
+        "mean_english": "khu vực phân cho một viên cảnh sát",
+        "definition": "a regular or usual course",
+        "ex_of_definition_list": [
+          "a policeman’s beat."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "262853401"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/spike_cb_dmean_5000_it.json",
-    "id_item": "spike_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/count_cb_dmean_5000_it.json",
+    "id_item": "count_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "spike",
+    "english": "count",
     "list_mean": [
-      "que nhọn, chấn song sắt đầu nhọn",
-      "đinh đế giày"
+      "Bá tước",
+      "đếm; tính",
+      "cộng",
+      "có giá trị",
+      "coi là",
+      "sự đếm",
+      "buộc tội"
     ],
-    "hash_code_list_mean": "-1779327243",
+    "hash_code_list_mean": "-1243312901",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809354021_4372ab68fc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809354021_a9ed64ba33_o.png",
-        "id_image": "spike_5029618"
+        "link_thumb": "https://live.staticflickr.com/65535/51810064490_82c6b4132d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064490_375a2d0586_o.png",
+        "id_image": "count_3155259"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327761_7edec116e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327761_dc98599dd5_o.png",
+        "id_image": "count_5291791"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810064395_1d8854b25d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064395_fe8626c87e_o.png",
+        "id_image": "count_5605901"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442693_dbe1424c94_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442693_f0fdb2fd47_o.png",
+        "id_image": "count_5979299"
       }
     ],
-    "hash_code_list_img": "1545038382",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "244314786",
+    "list_definition_mean": [
+      {
+        "mean_english": "Bá tước",
+        "definition": "a nobleman in certain countries, equal in rank to a British earl",
+        "ex_of_definition_list": [
+          "Count Dracula."
+        ]
+      },
+      {
+        "mean_english": "đếm; tính",
+        "definition": "to name the numbers up to",
+        "ex_of_definition_list": [
+          "Count (up to) ten."
+        ]
+      },
+      {
+        "mean_english": "cộng",
+        "definition": "to calculate using numbers",
+        "ex_of_definition_list": [
+          "Count (up) the number of pages",
+          "Count how many people there are",
+          "There were six people present, not counting the chairman."
+        ]
+      },
+      {
+        "mean_english": "có giá trị",
+        "definition": "to be important or have an effect or value",
+        "ex_of_definition_list": [
+          "What he says doesn’t count",
+          "All these essays count towards my final mark."
+        ]
+      },
+      {
+        "mean_english": "coi là",
+        "definition": "to consider",
+        "ex_of_definition_list": [
+          "Count yourself lucky to be here."
+        ]
+      },
+      {
+        "mean_english": "sự đếm",
+        "definition": "an act of numbering",
+        "ex_of_definition_list": [
+          "They took a count of how many people attended."
+        ]
+      },
+      {
+        "mean_english": "buộc tội",
+        "definition": "a charge pressed against a suspect etc",
+        "ex_of_definition_list": [
+          "She faces three counts of theft."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1727004758"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/fungus_cb_dmean_5000_it.json",
-    "id_item": "fungus_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pound_cb_dmean_5000_it.json",
+    "id_item": "pound_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "fungus",
+    "english": "pound",
     "list_mean": [
-      "nấm"
+      "đồng bảng",
+      "đơn vị cân nặng pound = 0,454 kilograms",
+      "chỗ nhốt súc vật đi lạc",
+      "đánh mạnh",
+      "chạy rầm rập",
+      "giã"
     ],
-    "hash_code_list_mean": "349045",
+    "hash_code_list_mean": "2092681330",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809341876_1d5967ff70_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809341876_e3b73bee20_o.png",
-        "id_image": "fungus_2268983"
+        "link_thumb": "https://live.staticflickr.com/65535/51809446793_bbc568cb65_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809446793_cf6cd8d0e9_o.png",
+        "id_image": "pound_2349360"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079290_ed53f63081_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079290_50e7aaa5b6_o.png",
-        "id_image": "fungus_3075148"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079270_0a73457bc1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079270_ed7c738961_o.png",
-        "id_image": "fungus_4178824"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079220_28cfb82822_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079220_18304f1e1d_o.png",
-        "id_image": "fungus_5969584"
+        "link_thumb": "https://live.staticflickr.com/65535/51809686829_77ced42d1d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809686829_30bdc612a6_o.png",
+        "id_image": "pound_506129"
       }
     ],
-    "hash_code_list_img": "-482992705",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "901929335",
+    "list_definition_mean": [
+      {
+        "mean_english": "chỗ nhốt súc vật đi lạc",
+        "definition": "an enclosure or pen into which stray animals are put",
+        "ex_of_definition_list": [
+          "a dog pound."
+        ]
+      },
+      {
+        "mean_english": "đánh mạnh",
+        "definition": "to hit or strike heavily; to thump",
+        "ex_of_definition_list": [
+          "He pounded at the door",
+          "The children were pounding on the piano."
+        ]
+      },
+      {
+        "mean_english": "chạy rầm rập",
+        "definition": "to walk or run heavily",
+        "ex_of_definition_list": [
+          "He pounded down the road."
+        ]
+      },
+      {
+        "mean_english": "giã",
+        "definition": "to break up (a substance) into powder or liquid",
+        "ex_of_definition_list": [
+          "She pounded the dried herbs."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "347117378"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/preparation_cb_dmean_5000_it.json",
-    "id_item": "preparation_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/questionnaire_cb_dmean_5000_it.json",
+    "id_item": "questionnaire_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "preparation",
+    "english": "questionnaire",
     "list_mean": [
-      "sự chuẩn bị",
-      "vật chuẩn bị"
+      "bản câu hỏi điều tra"
     ],
-    "hash_code_list_mean": "1476886498",
+    "hash_code_list_mean": "-1003739255",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328751_46d5065224_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328751_b8203f8660_o.png",
-        "id_image": "preparation_329807"
+        "link_thumb": "https://live.staticflickr.com/65535/51809343981_032e942052_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343981_1521ed0215_o.png",
+        "id_image": "questionnaire_1643825"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810065545_fc00878081_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810065545_0c70c4acaf_o.png",
-        "id_image": "preparation_3380822"
+        "link_thumb": "https://live.staticflickr.com/65535/51810081280_e02bdc08d5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810081280_6a5c0084fd_o.png",
+        "id_image": "questionnaire_1792388"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808373442_1fe20ce64b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808373442_d3c1aaafb4_o.png",
-        "id_image": "preparation_4192905"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810065490_2ecff62872_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810065490_8bc7357218_o.png",
-        "id_image": "preparation_6159837"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328611_32a80cb366_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328611_8bfcca32ff_o.png",
-        "id_image": "preparation_6347410"
+        "link_thumb": "https://live.staticflickr.com/65535/51809458588_efc06cf5ba_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809458588_87864a167b_o.png",
+        "id_image": "questionnaire_2820228"
       }
     ],
-    "hash_code_list_img": "-1517727957",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-23732998",
+    "list_definition_mean": [
+      {
+        "mean_english": "bản câu hỏi điều tra",
+        "definition": "a written list of questions to be answered by a large number of people to provide information for a survey or report",
+        "ex_of_definition_list": [
+          "We were asked to complete a questionnaire."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1083086584"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shredder_cb_dmean_5000_it.json",
-    "id_item": "shredder_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/lightbulb_cb_dmean_5000_it.json",
+    "id_item": "lightbulb_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "shredder",
+    "english": "lightbulb",
     "list_mean": [
-      "thiết bị cắt vụn"
+      "bóng đèn"
     ],
-    "hash_code_list_mean": "-1311179003",
+    "hash_code_list_mean": "-1137664352",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809696944_3e92da59c9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809696944_a712538697_o.png",
-        "id_image": "shredder_1442796"
+        "link_thumb": "https://live.staticflickr.com/65535/51809457288_897ac0d9b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809457288_c4b5e75aa8_o.png",
+        "id_image": "lightbulb_1262709"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386717_f51808ce4c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386717_969bd088a7_o.png",
-        "id_image": "shredder_1507221"
+        "link_thumb": "https://live.staticflickr.com/65535/51810079935_6622288ebd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079935_10c26c32eb_o.png",
+        "id_image": "lightbulb_1262997"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809456448_7916689f10_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809456448_84ef3a66f8_o.png",
-        "id_image": "shredder_2296446"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386627_5feb97a858_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386627_5ab17ef4af_o.png",
-        "id_image": "shredder_6301039"
+        "link_thumb": "https://live.staticflickr.com/65535/51810080030_79edd997a2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810080030_d5114fa3e9_o.png",
+        "id_image": "lightbulb_812875"
       }
     ],
-    "hash_code_list_img": "461901000",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "2073888556",
+    "list_definition_mean": [
+      {
+        "mean_english": "bóng đèn",
+        "definition": "a glass object that fits into an electric light and which produces light when an electric current is passed through it; bulb",
+        "ex_of_definition_list": [
+          "This lightbulb needs changing."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "956430030"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/mafia_cb_dmean_5000_it.json",
-    "id_item": "mafia_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/disapprove_cb_dmean_5000_it.json",
+    "id_item": "disapprove_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "mafia",
+    "english": "disapprove",
     "list_mean": [
-      "băng đảng mafia",
-      "tổ chức ngầm"
+      "phản đối"
     ],
-    "hash_code_list_mean": "310638215",
+    "hash_code_list_mean": "1035511083",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375087_263014a185_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375087_688426a49b_o.png",
-        "id_image": "mafia_2099872"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375042_c8e51998c8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375042_5dbd7385e9_o.png",
-        "id_image": "mafia_4092069"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375102_7d213412c5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375102_1e1f958b9e_o.png",
-        "id_image": "mafia_843337"
+        "link_thumb": "https://live.staticflickr.com/65535/51809673304_ff0c6ca3fa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809673304_7ff01518d5_o.png",
+        "id_image": "disapprove_1982943"
       }
     ],
-    "hash_code_list_img": "1847467062",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1880052137",
+    "list_definition_mean": [
+      {
+        "mean_english": "phản đối",
+        "definition": "to have an unfavourable opinion (of)",
+        "ex_of_definition_list": [
+          "Her mother disapproved of her new boyfriend."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1202653629"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/romantic_cb_dmean_5000_it.json",
-    "id_item": "romantic_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/hat_cb_dmean_5000_it.json",
+    "id_item": "hat_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "romantic",
+    "english": "hat",
     "list_mean": [
-      "thuộc lãng mạn",
-      "có tính lãng mạn",
-      "mơ mộng",
-      "người bay bổng",
-      "người lãng mạn",
-      "nhà văn, nhà thơ lãng mạn"
+      "mũ"
     ],
-    "hash_code_list_mean": "1785747090",
+    "hash_code_list_mean": "3771",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808387897_7c3bd7cba7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808387897_583e687838_o.png",
-        "id_image": "romantic_1911850"
+        "link_thumb": "https://live.staticflickr.com/65535/51809698689_dc89542e74_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698689_9e6181621e_o.png",
+        "id_image": "hat_119164"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809698134_4d5c27d968_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809698134_3901b38d4f_o.png",
-        "id_image": "romantic_1911853"
+        "link_thumb": "https://live.staticflickr.com/65535/51808388412_18b2b43b61_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808388412_548056d2a9_o.png",
+        "id_image": "hat_288593"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080315_d7c24c2960_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080315_5916b42aaa_o.png",
-        "id_image": "romantic_1911865"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080430_b41feee15f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080430_be4f611e99_o.png",
-        "id_image": "romantic_325628"
+        "link_thumb": "https://live.staticflickr.com/65535/51809698654_d8279dbec0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698654_56680292c2_o.png",
+        "id_image": "hat_292020"
       }
     ],
-    "hash_code_list_img": "190744341",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "293399450",
+    "list_definition_mean": [
+      {
+        "mean_english": "mũ",
+        "definition": "a covering for the head, usually worn out of doors",
+        "ex_of_definition_list": [
+          "He raised his hat as the lady approached."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "193156934"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/castle_cb_dmean_5000_it.json",
-    "id_item": "castle_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/turkey_cb_dmean_5000_it.json",
+    "id_item": "turkey_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "castle",
+    "english": "turkey",
     "list_mean": [
-      "lâu đài",
-      "quân cờ thấp"
+      "gà tây",
+      "thịt gà tây"
     ],
-    "hash_code_list_mean": "1040380701",
+    "hash_code_list_mean": "-2138089148",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436088_708d75c6e4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436088_89cd6da952_o.png",
-        "id_image": "castle_327414"
+        "link_thumb": "https://live.staticflickr.com/65535/51808373377_cf4067c606_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373377_d3cc7d06c1_o.png",
+        "id_image": "turkey_2403459"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675914_9e906976f4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675914_c4961d3c85_o.png",
-        "id_image": "castle_540162"
+        "link_thumb": "https://live.staticflickr.com/65535/51809683654_e0be9f70b7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809683654_123df7fa93_o.png",
+        "id_image": "turkey_3467779"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436008_24d4671b3a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436008_358df5698e_o.png",
-        "id_image": "castle_619097"
+        "link_thumb": "https://live.staticflickr.com/65535/51808373297_5af148a68f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373297_269d55dfe7_o.png",
+        "id_image": "turkey_5294711"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328501_81aa4684de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328501_f150277979_o.png",
+        "id_image": "turkey_6039410"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443453_24134e1488_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443453_50c7a24d26_o.png",
+        "id_image": "turkey_6118303"
       }
     ],
-    "hash_code_list_img": "-1205391735",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-345955617",
+    "list_definition_mean": [
+      {
+        "mean_english": "thịt gà tây",
+        "definition": "its flesh used as food, eaten especially at Christmas or (in the United States) Thanksgiving",
+        "ex_of_definition_list": [
+          "We had turkey for dinner."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "925152349"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/dinner_cb_dmean_5000_it.json",
-    "id_item": "dinner_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/painter_cb_dmean_5000_it.json",
+    "id_item": "painter_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "dinner",
+    "english": "painter",
     "list_mean": [
-      "bữa tối",
-      "dạ tiệc"
+      "thợ sơn",
+      "hoạ sĩ"
     ],
-    "hash_code_list_mean": "-1173188939",
+    "hash_code_list_mean": "198020654",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810057650_46aac1127f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810057650_9d4d701439_o.png",
-        "id_image": "dinner_332981"
+        "link_thumb": "https://live.staticflickr.com/65535/51808381412_5736027de3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808381412_efc012bc2d_o.png",
+        "id_image": "painter_1876789"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675904_58327a3ff9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675904_83220a91b0_o.png",
-        "id_image": "dinner_5071896"
+        "link_thumb": "https://live.staticflickr.com/65535/51809451323_4190a718da_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809451323_7758b157d0_o.png",
+        "id_image": "painter_1902503"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675879_7c03a492e4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675879_da6f437ea9_o.png",
-        "id_image": "dinner_6039575"
+        "link_thumb": "https://live.staticflickr.com/65535/51810073440_cec29bebc1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810073440_a0be8c41f8_o.png",
+        "id_image": "painter_307956"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809320806_1205c64794_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809320806_49a8308780_o.png",
-        "id_image": "dinner_6039656"
+        "link_thumb": "https://live.staticflickr.com/65535/51809336381_034daea170_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809336381_44b6dc69df_o.png",
+        "id_image": "painter_3527113"
       }
     ],
-    "hash_code_list_img": "-1059645775",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "697768494",
+    "list_definition_mean": [
+      {
+        "mean_english": "thợ sơn",
+        "definition": "a person whose job is to put paint on things, especially walls, doors etc in houses",
+        "ex_of_definition_list": [
+          "He’s a painter and decorator."
+        ]
+      },
+      {
+        "mean_english": "hoạ sĩ",
+        "definition": "an artist who makes pictures in paint",
+        "ex_of_definition_list": [
+          "an Impressionist painter",
+          "Who was the painter of this portrait?"
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1068070214"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/phone_cb_dmean_5000_it.json",
-    "id_item": "phone_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/channel_cb_dmean_5000_it.json",
+    "id_item": "channel_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "phone",
+    "english": "channel",
     "list_mean": [
-      "điện thoại",
-      "gọi điện thoại"
+      "rãnh",
+      "luồng",
+      "eo biển",
+      "kênh",
+      "đào rãnh",
+      "hướng vào"
     ],
-    "hash_code_list_mean": "-1203901858",
+    "hash_code_list_mean": "-452821808",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809704474_893d0a9ea1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809704474_c0f2cf15ef_o.png",
-        "id_image": "phone_523104"
+        "link_thumb": "https://live.staticflickr.com/65535/51809429058_71ecf13d8d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809429058_bff66bfe50_o.png",
+        "id_image": "channel_1207578"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809349811_ee2452b5ec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809349811_df929b79f3_o.png",
-        "id_image": "phone_523122"
+        "link_thumb": "https://live.staticflickr.com/65535/51809314116_ddc5119297_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809314116_739a763f05_o.png",
+        "id_image": "channel_4062101"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809464423_bc77269185_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809464423_35d6c4aff8_o.png",
-        "id_image": "phone_656275"
+        "link_thumb": "https://live.staticflickr.com/65535/51808358307_7d991f8e2d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808358307_fc6e2702d2_o.png",
+        "id_image": "channel_4577178"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809314036_3965b4e757_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809314036_ffe06cd301_o.png",
+        "id_image": "channel_5853646"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810050830_2716e78a7d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810050830_9f5d9f0f6a_o.png",
+        "id_image": "channel_650975"
       }
     ],
-    "hash_code_list_img": "2001380247",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "386464970",
+    "list_definition_mean": [
+      {
+        "mean_english": "rãnh",
+        "definition": "the bed of a stream or other way through which liquid can flow",
+        "ex_of_definition_list": [
+          "a sewage channel."
+        ]
+      },
+      {
+        "mean_english": "eo biển",
+        "definition": "a narrow stretch of water joining two seas",
+        "ex_of_definition_list": [
+          "the English Channel."
+        ]
+      },
+      {
+        "mean_english": "kênh",
+        "definition": "a means of sending or receiving information etc",
+        "ex_of_definition_list": [
+          "We got the information through the usual channels."
+        ]
+      },
+      {
+        "mean_english": "kênh",
+        "definition": "(in television, radio etc) a band of frequencies for sending or receiving signals",
+        "ex_of_definition_list": [
+          "BBC Television now has several channels."
+        ]
+      },
+      {
+        "mean_english": "đào rãnh",
+        "definition": "to make a channel in",
+        "ex_of_definition_list": [
+          "Water has channelled the earth creating small ravines."
+        ]
+      },
+      {
+        "mean_english": "hướng vào",
+        "definition": "to direct into a particular course",
+        "ex_of_definition_list": [
+          "He channelled/channeled all his energies into the project."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "614252409"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/grain_cb_dmean_5000_it.json",
-    "id_item": "grain_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_5/raw/main/upward_cb_dmean_5000_it.json",
+    "id_item": "upward_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "grain",
+    "english": "upward",
     "list_mean": [
-      "thóc; gạo",
-      "ngũ cốc",
-      "hạt; hột",
-      "thớ (gỗ)",
-      "một chút"
+      "hướng lên, đi lên"
     ],
-    "hash_code_list_mean": "-1924046474",
+    "hash_code_list_mean": "448498871",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325906_63feaef08d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325906_98b463d4f3_o.png",
-        "id_image": "grain_2259561"
+        "link_thumb": "https://live.staticflickr.com/65535/51808396267_1c0b562aa4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808396267_243cde8174_o.png",
+        "id_image": "upward_959113"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325861_fb1cd44916_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325861_f12d0505fe_o.png",
-        "id_image": "grain_4127305"
+        "link_thumb": "https://live.staticflickr.com/65535/51809705994_e8bafe8ae8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809705994_f48d9a3989_o.png",
+        "id_image": "upward_959148"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809681064_e6abde62a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809681064_553c4e1698_o.png",
-        "id_image": "grain_517618"
+        "link_thumb": "https://live.staticflickr.com/65535/51809466043_6dce21d215_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809466043_b35088e960_o.png",
+        "id_image": "upward_959149"
       }
     ],
-    "hash_code_list_img": "-263500718",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-662728931",
+    "list_definition_mean": [
+      {
+        "mean_english": "hướng lên, đi lên",
+        "definition": "going up or directed up",
+        "ex_of_definition_list": [
+          "They took the upward path",
+          "an upward glance."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1481853306"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/shade_cb_dmean_5000_it.json",
-    "id_item": "shade_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/consumption_cb_dmean_5000_it.json",
+    "id_item": "consumption_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "shade",
+    "english": "consumption",
     "list_mean": [
-      "bóng, bóng tối",
-      "bóng",
-      "chỗ có bóng mát",
-      "sự chuyển dần màu",
-      "một chút",
-      "che bóng mát cho",
-      "làm tối sầm",
-      "tô đậm, nhạt dần"
+      "sự tiêu dùng",
+      "bệnh lao phổi"
     ],
-    "hash_code_list_mean": "-53595990",
+    "hash_code_list_mean": "686706984",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809702629_095c2f32c9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809702629_3cdbf1525d_o.png",
-        "id_image": "shade_2130697"
+        "link_thumb": "https://live.staticflickr.com/65535/51809308436_f03be589cd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308436_c30dfc27fb_o.png",
+        "id_image": "consumption_1486206"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308416_dcea8fc3f0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308416_8aa005f7d9_o.png",
+        "id_image": "consumption_2390236"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810045325_117eafcab9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810045325_e78066e0c5_o.png",
+        "id_image": "consumption_4465742"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809308321_1f2c2f74df_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308321_cd8714c8ac_o.png",
+        "id_image": "consumption_6315590"
       }
     ],
-    "hash_code_list_img": "883496036",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "1396390040",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự tiêu dùng",
+        "definition": "the act of consuming",
+        "ex_of_definition_list": [
+          "The consumption of coffee has increased."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1903406714"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_1/raw/main/enjoy_cb_dmean_5000_it.json",
-    "id_item": "enjoy_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/pinch_cb_dmean_5000_it.json",
+    "id_item": "pinch_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "enjoy",
+    "english": "pinch",
     "list_mean": [
-      "thích thú",
-      "có được"
+      "véo",
+      "bó chặt",
+      "ăn cắp",
+      "cái véo",
+      "nhúm"
     ],
-    "hash_code_list_mean": "1459669324",
+    "hash_code_list_mean": "-1982419425",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809434113_e23fd5f7a8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809434113_a348fc52f7_o.png",
-        "id_image": "enjoy_3923661"
+        "link_thumb": "https://live.staticflickr.com/65535/51810083670_b96c9fda93_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083670_6c74a2e76f_o.png",
+        "id_image": "pinch_1151198"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808363427_32627c38c4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808363427_b7e7b94578_o.png",
-        "id_image": "enjoy_5778447"
+        "link_thumb": "https://live.staticflickr.com/65535/51809346176_0417f8da3c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809346176_fb6b352a69_o.png",
+        "id_image": "pinch_4151549"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810055380_45f22a61f1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810055380_9c047fb5f6_o.png",
-        "id_image": "enjoy_5998794"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809318806_c3c382c05a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809318806_87e4416e0e_o.png",
-        "id_image": "enjoy_6143302"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808363342_9114c3f437_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808363342_f7819767d0_o.png",
-        "id_image": "enjoy_6193185"
+        "link_thumb": "https://live.staticflickr.com/65535/51810083585_56ee73483a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083585_500005dd22_o.png",
+        "id_image": "pinch_4660849"
       }
     ],
-    "hash_code_list_img": "-731274019",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1714891921",
+    "list_definition_mean": [
+      {
+        "mean_english": "véo",
+        "definition": "to squeeze or press tightly (flesh), especially between the thumb and forefinger",
+        "ex_of_definition_list": [
+          "He pinched her arm."
+        ]
+      },
+      {
+        "mean_english": "bó chặt",
+        "definition": "to hurt by being too small or tight",
+        "ex_of_definition_list": [
+          "My new shoes are pinching (me)."
+        ]
+      },
+      {
+        "mean_english": "ăn cắp",
+        "definition": "to steal",
+        "ex_of_definition_list": [
+          "Who pinched my pen?"
+        ]
+      },
+      {
+        "mean_english": "cái véo",
+        "definition": "an act of pinching; a squeeze or nip",
+        "ex_of_definition_list": [
+          "He gave her a pinch on the cheek."
+        ]
+      },
+      {
+        "mean_english": "nhúm",
+        "definition": "a very small amount; what can be held between the thumb and forefinger",
+        "ex_of_definition_list": [
+          "a pinch of salt."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-1175909939"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_0/raw/main/battleship_cb_dmean_5000_it.json",
-    "id_item": "battleship_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/harmony_cb_dmean_5000_it.json",
+    "id_item": "harmony_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "battleship",
+    "english": "harmony",
     "list_mean": [
-      "chiến hạm"
+      "sự hài hoà; sự hoà âm",
+      "sự hoà hợp"
     ],
-    "hash_code_list_mean": "-1177446394",
+    "hash_code_list_mean": "-1188501210",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809312611_7d649560ff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809312611_dff5d7e5b9_o.png",
-        "id_image": "battleship_1399629"
+        "link_thumb": "https://live.staticflickr.com/65535/51809699294_8914b32443_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809699294_2081642e33_o.png",
+        "id_image": "harmony_1783687"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809427403_51abfb2196_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809427403_dd171ba34c_o.png",
-        "id_image": "battleship_2590397"
+        "link_thumb": "https://live.staticflickr.com/65535/51809699284_f1fcba7ef3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809699284_69aa659dc3_o.png",
+        "id_image": "harmony_2102523"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810049130_8d703830b3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810049130_eb2506e8c1_o.png",
-        "id_image": "battleship_3117944"
+        "link_thumb": "https://live.staticflickr.com/65535/51808389097_858552961a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808389097_0050e2ca93_o.png",
+        "id_image": "harmony_2773071"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808356572_6c94f4a977_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808356572_4d94a7a748_o.png",
-        "id_image": "battleship_4984885"
+        "link_thumb": "https://live.staticflickr.com/65535/51809458908_b579822d66_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809458908_b00b642506_o.png",
+        "id_image": "harmony_4601147"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809458893_00e9334fd6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809458893_ea7ab0441f_o.png",
+        "id_image": "harmony_5265801"
       }
     ],
-    "hash_code_list_img": "-873611028",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1079379199",
+    "list_definition_mean": [
+      {
+        "mean_english": "sự hài hoà; sự hoà âm",
+        "definition": "(of musical sounds, colours/colors etc) (the state of forming) a pleasing combination",
+        "ex_of_definition_list": [
+          "The singers sang in harmony."
+        ]
+      },
+      {
+        "mean_english": "sự hoà hợp",
+        "definition": "the agreement of people’s feelings, opinions etc",
+        "ex_of_definition_list": [
+          "Few married couples live in perfect harmony."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "-2085419934"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/memorial_cb_dmean_5000_it.json",
-    "id_item": "memorial_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_2/raw/main/foreman_cb_dmean_5000_it.json",
+    "id_item": "foreman_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "memorial",
+    "english": "foreman",
     "list_mean": [
-      "tượng đài"
+      "đốc công"
     ],
-    "hash_code_list_mean": "529096441",
+    "hash_code_list_mean": "-1662242810",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347526_54d6581c97_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347526_b29d861865_o.png",
-        "id_image": "memorial_1290371"
+        "link_thumb": "https://live.staticflickr.com/65535/51809670234_f8093a077e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670234_1c8cffc8af_o.png",
+        "id_image": "foreman_1670456"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347486_decdd88176_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347486_e6caf522a6_o.png",
-        "id_image": "memorial_1650366"
+        "link_thumb": "https://live.staticflickr.com/65535/51808359707_26587c8f26_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808359707_e72f2ba7f7_o.png",
+        "id_image": "foreman_1909989"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347446_2aebe9e81c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347446_53fa1e8518_o.png",
-        "id_image": "memorial_3556870"
+        "link_thumb": "https://live.staticflickr.com/65535/51809670169_afe63e072c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670169_ed3da6c586_o.png",
+        "id_image": "foreman_4899570"
       }
     ],
-    "hash_code_list_img": "748123451",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-267978034",
+    "list_definition_mean": [
+      {
+        "mean_english": "đốc công",
+        "definition": "the supervisor or leader of a group, especially of workmen or a jury",
+        "ex_of_definition_list": [
+          "The foreman here is in charge of twenty workmen."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "494266318"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_3/raw/main/platelet_cb_dmean_5000_it.json",
-    "id_item": "platelet_cb_dmean_5000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_dmean_5000_it_4/raw/main/school_cb_dmean_5000_it.json",
+    "id_item": "school_cb_dmean_5000_it",
     "id_album": "570943426",
-    "english": "platelet",
+    "english": "school",
     "list_mean": [
-      "tiểu cầu"
+      "trường học",
+      "học sinh của một trường",
+      "trường dạy nghề",
+      "khoa (trong một trường đại học)",
+      "trường đại học, cao đẳng",
+      "trường phái",
+      "rèn luyện, đào tạo",
+      "đàn cá"
     ],
-    "hash_code_list_mean": "1226750487",
+    "hash_code_list_mean": "408814822",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809341846_ba5d87138e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809341846_3edefc3b67_o.png",
-        "id_image": "platelet_2375299"
+        "link_thumb": "https://live.staticflickr.com/65535/51809445298_421eda6f6d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445298_8bc75b1448_o.png",
+        "id_image": "school_1010715"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079265_d9679cac3b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079265_26edc34481_o.png",
-        "id_image": "platelet_4493138"
+        "link_thumb": "https://live.staticflickr.com/65535/51809445338_877270b811_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445338_8ec784c245_o.png",
+        "id_image": "school_203234"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067175_3fe9a41dd8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067175_22e0e5872f_o.png",
+        "id_image": "school_2532684"
       }
     ],
-    "hash_code_list_img": "-849597750",
-    "list_definition_mean": [],
-    "hash_code_list_definition_mean": "1"
+    "hash_code_list_img": "-1772546559",
+    "list_definition_mean": [
+      {
+        "mean_english": "trường học",
+        "definition": "a place for teaching especially children",
+        "ex_of_definition_list": [
+          "She goes to the school",
+          "He’s not at university – he’s still at school",
+          "American He’s still in school."
+        ]
+      },
+      {
+        "mean_english": "học sinh của một trường",
+        "definition": "the pupils of a school",
+        "ex_of_definition_list": [
+          "The behaviour of this school in public is sometimes not very good."
+        ]
+      },
+      {
+        "mean_english": "trường dạy nghề",
+        "definition": "a series of meetings or a place for instruction etc",
+        "ex_of_definition_list": [
+          "She runs a sewing school",
+          "a driving school."
+        ]
+      },
+      {
+        "mean_english": "khoa (trong một trường đại học)",
+        "definition": "a department of a university or college dealing with a particular subject",
+        "ex_of_definition_list": [
+          "the School of Mathematics."
+        ]
+      },
+      {
+        "mean_english": "trường phái",
+        "definition": "a group of people with the same ideas etc",
+        "ex_of_definition_list": [
+          "There are two schools of thought about the treatment of this disease."
+        ]
+      },
+      {
+        "mean_english": "rèn luyện, đào tạo",
+        "definition": "to train through practice",
+        "ex_of_definition_list": [
+          "We must school ourselves to be patient."
+        ]
+      },
+      {
+        "mean_english": "đàn cá",
+        "definition": "a group of certain kinds of fish, whales or other water animals swimming about",
+        "ex_of_definition_list": [
+          "a school of porpoises."
+        ]
+      }
+    ],
+    "hash_code_list_definition_mean": "1842225449"
   }
 ]
